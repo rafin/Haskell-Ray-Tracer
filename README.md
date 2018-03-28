@@ -12,6 +12,7 @@ A basic raytracer implemented in Haskell and compiled with Stack.
 ##### To Implement...
 
 - parallization
+- 'text file to rendering' parser
 - multiple light sources
 - refraction
 - soft shadows
