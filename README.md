@@ -20,6 +20,6 @@ A basic raytracer implemented in Haskell and compiled with Stack.
 
 
 
-Example:
+Example Rendering:
 
 ![test.png](test.png)
