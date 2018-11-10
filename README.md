@@ -1,5 +1,7 @@
 # raytracer
 
-having just learned Haskell I thought creating a ray-tracer would be a fun project. The interface isn't user-friendly enough to provide a dynamically-working demo, but here's an example rendering: 
+A simply ray-tracer implemented in Haskell.
+
+example rendering: 
 
 ![test.png](test.png)
